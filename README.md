@@ -15,7 +15,7 @@
 
 ----  
 ## 🎓 Certifications :- 
-- <a herf = "https://www.credly.com/badges/4bef7ddf-c81a-49ef-a462-9062e32b0f63/linked_in?t=sun5vz"> Github Foundations Cert </a>
+- <a herf = "https://www.credly.com/badges/4bef7ddf-c81a-49ef-a462-9062e32b0f63/linked_in?t=sun5vz"> <p> Github Foundations Cert </p> </a>
 -  
 ----	
 
