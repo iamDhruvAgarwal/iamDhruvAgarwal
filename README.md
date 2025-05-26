@@ -34,7 +34,7 @@
 ## 📱 Contact Me Here :-
 <a href="https://twitter.com/DhruvAg41502541"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://github.com/iamDhruvAgarwal"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Bornunique911}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/%7BiamDhruvAgarwal%7D/count.svg" /></p> 
 
 <!--
 **iamDhruvAgarwal/iamDhruvAgarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
